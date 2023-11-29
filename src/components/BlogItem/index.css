@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+
+.listItem {
+  width: 100%;
+  border-bottom: 1px;
+  margin-bottom: 10px;
+  box-shadow: 0 2px 3px -1px rgba(0, 0, 0, 0.1);
+}
+
+.titleBg {
+  display: flex;
+  justify-content: space-between;
+}

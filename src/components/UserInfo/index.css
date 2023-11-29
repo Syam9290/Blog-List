@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+
+.userInfoBg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.profileImg {
+  width: 100px;
+  height: 100px;
+}
